@@ -8,8 +8,13 @@ Other than CS50 I'm also doing problems at Project Euler, it's all about solving
 
 ### Day 1
 
+Finally kicked off my journey of 100DaysofCode. Solved a couple of problems in C++
+The problems I solved were for Day 1 and 2 from an initiative called Code to Express, started by Madhav Bahl from VIT, Vellore. 
+Everything about it can be found out below, I have only solved a couple of problems but have taken a look on almost all of them, the selected questions are very diverse in terms of topics they teach. Below is the link to their github repository.
+https://github.com/CodeToExpress/dailycodebase
 
 ### Day 2
+
 
 
 ### Day 3
