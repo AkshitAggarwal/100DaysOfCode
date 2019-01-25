@@ -15,6 +15,6 @@ https://github.com/CodeToExpress/dailycodebase
 
 ### Day 2
 
-
+Continued working on C++ programs from the same codebase, CodetoExpress. Discovering some new syntaxes, there are a few changes that I wasn't quite aware in the Cpp14 syntax. 
 
 ### Day 3
