@@ -17,4 +17,7 @@ https://github.com/CodeToExpress/dailycodebase
 
 Continued working on C++ programs from the same codebase, CodetoExpress. Discovering some new syntaxes, there are a few changes that I wasn't quite aware in the Cpp14 syntax. 
 
-### Day 3
+### Day 3 - 6
+
+Working on Problem solving in C++, currently solving varioud String related problems but also recently learned to implement some Sorting Algorithms such as Bubble, Insertion and Merge Sort. Will move on to patter printing problems soon. 
+
